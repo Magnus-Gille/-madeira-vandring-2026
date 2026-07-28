@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[484,[],"ViewportBoundary"]
+3:I[484,[],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[6869,[],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Madeira till fots | Magnus & Johan 2026"}],["$","meta","1",{"name":"description","content":"En komplett vandringsplan för Madeira 30 september–4 oktober 2026: leder, alternativ, boende, flyg, restauranger och budget."}],["$","meta","2",{"name":"codex-preview","content":"development"}],["$","link","3",{"rel":"shortcut icon","href":"/-madeira-vandring-2026/favicon.svg"}],["$","link","4",{"rel":"icon","href":"/-madeira-vandring-2026/favicon.svg"}],["$","$L5","5",{}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"3DCbub8yMRvjNeQthe6L_"}
